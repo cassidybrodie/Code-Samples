@@ -1,3 +1,7 @@
+/*For this project, the idea was to create a mobile application that would allow a user to navigate 
+between scenes and read a sample of information about the city they selected.*/
+
+
 package net.androidbootcamp.citiesapp;
 
 import android.content.Intent;
